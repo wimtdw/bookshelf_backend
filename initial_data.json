@@ -1,0 +1,82 @@
+[
+  {
+    "model": "books.Achievement",
+    "pk": 1,
+    "fields": {
+      "name": "Начало коллекции",
+      "description": "Создать первую полку",
+      "emoji": "📚"
+    }
+  },
+  {
+    "model": "books.Achievement",
+    "pk": 2,
+    "fields": {
+      "name": "Первая книга",
+      "description": "Добавить первую книгу",
+      "emoji": "📗"
+    }
+  },
+  {
+    "model": "books.Achievement",
+    "pk": 3,
+    "fields": {
+      "name": "Новый читатель",
+      "description": "Зарегистрироваться на сайте",
+      "emoji": "🤝"
+    }
+  },
+  {
+    "model": "books.Achievement",
+    "pk": 4,
+    "fields": {
+      "name": "Дизайнер",
+      "description": "Поменять порядок книг",
+      "emoji": "🖼️"
+    }
+  },
+  {
+    "model": "books.Achievement",
+    "pk": 5,
+    "fields": {
+      "name": "Исследователь",
+      "description": "Поискать полку другого пользователя",
+      "emoji": "🏆"
+    }
+  },
+  {
+    "model": "books.Background",
+    "pk": 1,
+    "fields": {
+      "url": "https://hdhdd.ru/wp-content/uploads/2014/03/hd-wallpapers-background-nebula-blue-wallpaper-web-386120-1920x1080-wallpaper.jpg"
+    }
+  },
+  {
+    "model": "books.Background",
+    "pk": 2,
+    "fields": {
+      "url": "https://static.tildacdn.com/tild3361-6564-4438-a664-623061313965/pexels-photo-2409029.jpeg"
+    }
+  },
+  {
+    "model": "books.Background",
+    "pk": 3,
+    "fields": {
+      "url": "https://t3.ftcdn.net/jpg/05/82/11/52/360_F_582115231_ESP1i1ZZT3llBE0qTiCpB4mGT599YYUS.jpg"
+    }
+  },
+  {
+    "model": "books.Background",
+    "pk": 4,
+    "fields": {
+      "url": "https://media.istockphoto.com/id/1294199722/photo/watercolor-background-with-grainy-textured-paper-and-light-blue-brushstrokes-hand-painted.jpg?b=1&s=170667a&w=0&k=20&c=jCXOQWgYQEStfAl37o5NSnDmdZ5wblwTvGoGgx26r9M="
+    }
+  },
+  {
+    "model": "books.Background",
+    "pk": 5,
+    "fields": {
+      "url": "https://www.slaytyerim.com/upload/fa7464c12c.jpg"
+    }
+  }
+]
