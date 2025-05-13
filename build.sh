@@ -6,8 +6,7 @@ python manage.py collectstatic --no-input
 
 python manage.py migrate
 
-# python manage.py loaddata initial_data.json
-
+python manage.py loaddata initial_data.json
 
 # if [[ $CREATE_SUPERUSER ]]
 # then
