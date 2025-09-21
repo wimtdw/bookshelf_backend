@@ -17,7 +17,7 @@ python manage.py migrate
 #     print('Entry 5 not found')
 # "
 
-# python manage.py loaddata initial_data.json
+python manage.py loaddata initial_data.json
 
 # if [[ $CREATE_SUPERUSER ]]
 # then
